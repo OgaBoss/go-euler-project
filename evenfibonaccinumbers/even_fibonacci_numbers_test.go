@@ -6,5 +6,5 @@ import (
 )
 
 func TestFibonacciSequence(t *testing.T) {
-	assert.Equal(t, Fibonacci(20), 233168)
+	assert.Equal(t, Fibonacci(), 4613732)
 }
