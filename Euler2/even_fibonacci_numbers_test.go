@@ -1,4 +1,4 @@
-package evenfibonaccinumbers
+package Euler2
 
 import (
 	"github.com/stretchr/testify/assert"

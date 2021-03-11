@@ -1,4 +1,4 @@
-package evenfibonaccinumbers
+package Euler2
 
 func Fibonacci() int {
 	total := 0
